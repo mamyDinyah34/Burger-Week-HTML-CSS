@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Bebas Neue'),
+    url("../fonts/BebasNeue-Regular.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: bold;
+    src: local('Bebas Neue'),
+    url("../fonts/BebasNeueBold.woff") format('woff');
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: normal;
+    src: url("../fonts/Montserrat-Regular.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: bold;
+    src: url("../fonts/Montserrat-Bold.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: 'Alfa Slab One';
+    font-style: normal;
+    font-weight: normal;
+    src: url("../fonts/AlfaSlabOne-Regular.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: 'Myriad-pro-regular';
+    font-style: normal;
+    font-weight: normal;
+    src: url("../fonts/Myriad\ Pro\ Regular.ttf") format('truetype');
+}
+
